@@ -1,6 +1,6 @@
 import random
 import os
-
+print('dkjf')
 
 #NOMES
 nomes = ['ALEXANDRE RODRIGUES FIGUEIREDO',
